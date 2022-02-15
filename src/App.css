@@ -1,0 +1,24 @@
+body{
+  margin : 10px;
+  padding: 10px;
+ 
+}
+
+.indexstyle {
+  border: 2px;
+  width: 20%;
+  position: sticky;
+}
+
+.contentstyle{
+  border: 2px;
+  width: 70%;
+  padding-left: 10px;
+}
+
+.ap{
+  display:flex;
+  flex-direction: row;
+  width: 100%;
+}
+
