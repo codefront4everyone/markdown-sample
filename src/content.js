@@ -15,7 +15,7 @@ const Content = () => {
         }, [])
     
         return (
-          <div className = "contentstyle">
+          <div>
              <ReactMarkdown children ={content}></ReactMarkdown>
           </div>
         )
